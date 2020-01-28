@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TicketBooking</string>
+
+    // Mainactivity (Registration) screen
+    <string name="customer_name">Name</string>
+    <string name="customer_dob">Date of Birth</string>
+    <string name="document_type">Document Type</string>
+    <string name="document_id">Document ID</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+
+    //Get OTP screen
+    <string name="get_otp">Get OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+
+    //Stations
+    <string name="src_stn">Source</string>
+    <string name="dest_stn">Destination</string>
+    <string name="src_label">Select Source</string>
+    <string name="dest_label">Select Destination</string>
+    <string name="price">Price</string>
+
+
+    <string name="booking_confirmed">Booking Confirmed!</string>
+
+</resources>

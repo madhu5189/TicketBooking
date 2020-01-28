@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016355080601",
+    "firebase_url": "https://ticketbooking-b5c6c.firebaseio.com",
+    "project_id": "ticketbooking-b5c6c",
+    "storage_bucket": "ticketbooking-b5c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016355080601:android:0592ecf70b45c85e306b08",
+        "android_client_info": {
+          "package_name": "madhuri.applications.ticketbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016355080601-jqtcrca36plurhfh2u65q28oq86cq587.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "madhuri.applications.ticketbooking",
+            "certificate_hash": "f5db41dfc68e3ade7e2ff7217d73a0a49e400c81"
+          }
+        },
+        {
+          "client_id": "1016355080601-4hofmbim5hkn1fiqem3hl4t2i78pn6cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_plWTjt9E10_kW9i_YpTPXGg9yrPnzd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016355080601-4hofmbim5hkn1fiqem3hl4t2i78pn6cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
